@@ -1,0 +1,7 @@
+Maze solver – Robot SM 2021
+
+Idéer: Mappa kartan genom att låta en robotlängd vara en "pixel" i en array.
+Pathfinder algo: A* eller Djikstra
+Microkontroller: STM32F103C8T6 Cortex M3
+
+Plan: Testa algoritmerna i ett annat språk, typ python. Därefter bygga roboten och skriva om coden i C++
